@@ -1,11 +1,11 @@
 from flask import Flask, jsonify
 import pandas as pd
-from logger import SetupLogger
+from fraud_dashboard.logger import SetupLogger
 
 app = Flask(__name__)
 
 # Initialize logger
-logger = SetupLogger(log_file='logs/flask_app.log').get_logger()
+logger = SetupLogger(log_file='fraud_dashboard/logs/flask_app.log').get_logger()
 
 # Load fraud data from CSV
 def load_fraud_data():
