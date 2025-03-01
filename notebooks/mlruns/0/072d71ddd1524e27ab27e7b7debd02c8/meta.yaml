@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/072d71ddd1524e27ab27e7b7debd02c8/artifacts
+end_time: 1740829184732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 072d71ddd1524e27ab27e7b7debd02c8
+run_name: LSTM
+run_uuid: 072d71ddd1524e27ab27e7b7debd02c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740828954536
+status: 3
+tags: []
+user_id: abel

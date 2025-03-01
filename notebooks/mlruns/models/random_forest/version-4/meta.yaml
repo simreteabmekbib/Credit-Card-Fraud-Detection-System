@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740828913701
+current_stage: None
+description: null
+last_updated_timestamp: 1740828913701
+name: random_forest
+run_id: 895f10f6f3f94596a17d32d1bffd0730
+run_link: null
+source: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/895f10f6f3f94596a17d32d1bffd0730/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/895f10f6f3f94596a17d32d1bffd0730/artifacts/random_forest_model
+user_id: null
+version: 4

@@ -124,3 +124,49 @@
 2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
 2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
 2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
+2025-03-01 13:27:09,039 - logger_setup - INFO - Dataset loaded successfully.
+2025-03-01 13:27:12,153 - logger_setup - INFO - Dataset loaded successfully.
+2025-03-01 14:25:19,101 - logger_setup - INFO - Dataset loaded successfully.
+2025-03-01 14:25:41,785 - logger_setup - INFO - Plotting purchase_value vs age scatter plot.
+2025-03-01 14:25:42,981 - logger_setup - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-03-01 14:26:39,131 - logger_setup - INFO - Plotting categorical variables distributions by class.
+2025-03-01 14:26:42,895 - logger_setup - INFO - Successfully plotted multiple distributions by class.
+2025-03-01 14:26:47,183 - logger_setup - INFO - Plotting source vs browser heatmap.
+2025-03-01 14:26:47,621 - logger_setup - INFO - Successfully plotted source vs browser heatmap.
+2025-03-01 14:26:47,642 - logger_setup - INFO - Plotting the distribution of purchase delays.
+2025-03-01 14:26:49,317 - logger_setup - INFO - Successfully plotted the distribution of purchase delays.
+2025-03-01 14:26:49,357 - logger_setup - INFO - Plotting purchase patterns over time.
+2025-03-01 14:26:52,384 - logger_setup - INFO - Successfully plotted purchase patterns over time.
+2025-03-01 14:26:52,411 - logger_setup - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-03-01 14:27:03,784 - logger_setup - INFO - Successfully plotted purchase value vs. delay.
+2025-03-01 14:27:12,739 - logger_setup - INFO - Standardizing country names in the world GeoDataFrame.
+2025-03-01 14:27:12,764 - logger_setup - INFO - Country names standardized successfully.
+2025-03-01 14:27:12,768 - logger_setup - INFO - Calculating fraud rates by country.
+2025-03-01 14:27:12,826 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-03-01 14:27:12,827 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-03-01 14:27:12,854 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-03-01 14:27:12,855 - logger_setup - INFO - Merging data with world GeoDataFrame.
+2025-03-01 14:27:12,876 - logger_setup - INFO - Data merged successfully.
+2025-03-01 14:27:13,078 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-03-01 14:27:13,108 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-03-01 14:27:13,157 - logger_setup - INFO - Plotting transaction volume map.
+2025-03-01 14:27:14,979 - logger_setup - INFO - Transaction volume map plotted successfully.
+2025-03-01 14:27:18,431 - logger_setup - INFO - Calculating fraud rates by country.
+2025-03-01 14:27:18,488 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-03-01 14:27:18,560 - logger_setup - INFO - Plotting fraud rate map.
+2025-03-01 14:27:19,447 - logger_setup - INFO - Fraud rate map plotted successfully.
+2025-03-01 14:27:22,711 - logger_setup - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-03-01 14:27:22,711 - logger_setup - INFO - Starting the feature engineering pipeline...
+2025-03-01 14:27:22,711 - logger_setup - INFO - Preprocessing datetime features...
+2025-03-01 14:27:22,812 - logger_setup - INFO - Datetime features successfully created.
+2025-03-01 14:27:22,813 - logger_setup - INFO - Calculating transaction frequency and velocity...
+2025-03-01 14:27:23,682 - logger_setup - INFO - Transaction frequency and velocity calculated successfully.
+2025-03-01 14:27:23,688 - logger_setup - INFO - Encoding categorical features...
+2025-03-01 14:27:23,896 - logger_setup - INFO - Categorical features encoded successfully.
+2025-03-01 14:27:23,896 - logger_setup - INFO - Normalizing and scaling numerical features...
+2025-03-01 14:27:23,974 - logger_setup - INFO - Numerical features normalized and scaled successfully.
+2025-03-01 14:27:23,993 - logger_setup - INFO - Feature engineering pipeline executed successfully.
+2025-03-01 14:27:23,994 - logger_setup - INFO - Retrieving processed data...
+2025-03-01 14:27:23,994 - logger_setup - INFO - Processed data retrieved successfully.
+2025-03-01 14:31:11,949 - logger_setup - INFO - Dataset loaded successfully.
+2025-03-01 14:31:15,148 - logger_setup - INFO - Dataset loaded successfully.

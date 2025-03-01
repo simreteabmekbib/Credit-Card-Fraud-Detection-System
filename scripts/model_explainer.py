@@ -129,4 +129,4 @@ class ModelExplainer:
         """
         # Explain the model with SHAP and LIME for the specified instance
         self.explain_with_shap(instance_idx)
-        self.explain_with_lime(instance_idx)
+        # self.explain_with_lime(instance_idx)
