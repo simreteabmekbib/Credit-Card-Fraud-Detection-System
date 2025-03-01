@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740695470533
+current_stage: None
+description: null
+last_updated_timestamp: 1740695470533
+name: gradient_boosting
+run_id: e86440e75f5f4a2eb2e3193567059173
+run_link: null
+source: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/e86440e75f5f4a2eb2e3193567059173/artifacts/gradient_boosting_model
+status: READY
+status_message: null
+storage_location: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/e86440e75f5f4a2eb2e3193567059173/artifacts/gradient_boosting_model
+user_id: null
+version: 3

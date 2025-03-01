@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abel/CODE/AAiT/Credit-Card-Fraud-Detection-System/notebooks/mlruns/0/74f066909b184f4b806e4e54e7360d5f/artifacts
+end_time: 1740696328322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74f066909b184f4b806e4e54e7360d5f
+run_name: CNN
+run_uuid: 74f066909b184f4b806e4e54e7360d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740696144292
+status: 3
+tags: []
+user_id: abel
