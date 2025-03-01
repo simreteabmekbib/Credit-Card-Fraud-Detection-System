@@ -1,4 +1,126 @@
-2025-02-27 23:41:55,360 - logger_setup - INFO - Dataset loaded successfully.
-2025-02-27 23:41:55,360 - logger_setup - INFO - Dataset loaded successfully.
-2025-02-27 23:42:03,285 - logger_setup - INFO - Dataset loaded successfully.
-2025-02-27 23:42:03,285 - logger_setup - INFO - Dataset loaded successfully.
+2025-02-27 22:18:29,746 - logger_setup - INFO - Dataset loaded successfully.
+2025-02-27 22:18:29,746 - logger_setup - INFO - Dataset loaded successfully.
+2025-02-27 22:18:29,746 - logger_setup - INFO - Dataset loaded successfully.
+2025-02-27 22:30:05,475 - logger_setup - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-27 22:30:05,475 - logger_setup - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-27 22:30:05,475 - logger_setup - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-27 22:30:06,928 - logger_setup - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-27 22:30:06,928 - logger_setup - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-27 22:30:06,928 - logger_setup - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-27 22:33:28,506 - logger_setup - INFO - Plotting categorical variables distributions by class.
+2025-02-27 22:33:28,506 - logger_setup - INFO - Plotting categorical variables distributions by class.
+2025-02-27 22:33:28,506 - logger_setup - INFO - Plotting categorical variables distributions by class.
+2025-02-27 22:33:35,520 - logger_setup - INFO - Successfully plotted multiple distributions by class.
+2025-02-27 22:33:35,520 - logger_setup - INFO - Successfully plotted multiple distributions by class.
+2025-02-27 22:33:35,520 - logger_setup - INFO - Successfully plotted multiple distributions by class.
+2025-02-27 22:33:44,690 - logger_setup - INFO - Plotting source vs browser heatmap.
+2025-02-27 22:33:44,690 - logger_setup - INFO - Plotting source vs browser heatmap.
+2025-02-27 22:33:44,690 - logger_setup - INFO - Plotting source vs browser heatmap.
+2025-02-27 22:33:46,498 - logger_setup - INFO - Successfully plotted source vs browser heatmap.
+2025-02-27 22:33:46,498 - logger_setup - INFO - Successfully plotted source vs browser heatmap.
+2025-02-27 22:33:46,498 - logger_setup - INFO - Successfully plotted source vs browser heatmap.
+2025-02-27 22:33:46,528 - logger_setup - INFO - Plotting the distribution of purchase delays.
+2025-02-27 22:33:46,528 - logger_setup - INFO - Plotting the distribution of purchase delays.
+2025-02-27 22:33:46,528 - logger_setup - INFO - Plotting the distribution of purchase delays.
+2025-02-27 22:33:49,329 - logger_setup - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-27 22:33:49,329 - logger_setup - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-27 22:33:49,329 - logger_setup - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-27 22:34:24,383 - logger_setup - INFO - Plotting purchase patterns over time.
+2025-02-27 22:34:24,383 - logger_setup - INFO - Plotting purchase patterns over time.
+2025-02-27 22:34:24,383 - logger_setup - INFO - Plotting purchase patterns over time.
+2025-02-27 22:34:28,796 - logger_setup - INFO - Successfully plotted purchase patterns over time.
+2025-02-27 22:34:28,796 - logger_setup - INFO - Successfully plotted purchase patterns over time.
+2025-02-27 22:34:28,796 - logger_setup - INFO - Successfully plotted purchase patterns over time.
+2025-02-27 22:34:31,955 - logger_setup - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-27 22:34:31,955 - logger_setup - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-27 22:34:31,955 - logger_setup - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-27 22:34:57,462 - logger_setup - INFO - Successfully plotted purchase value vs. delay.
+2025-02-27 22:34:57,462 - logger_setup - INFO - Successfully plotted purchase value vs. delay.
+2025-02-27 22:34:57,462 - logger_setup - INFO - Successfully plotted purchase value vs. delay.
+2025-02-27 22:37:43,434 - logger_setup - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-27 22:37:43,434 - logger_setup - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-27 22:37:43,434 - logger_setup - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Country names standardized successfully.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Country names standardized successfully.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Country names standardized successfully.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:37:43,489 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:37:43,533 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:37:43,533 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:37:43,533 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:37:43,534 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:43,534 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:43,534 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:43,581 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:37:43,581 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:37:43,581 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:37:43,582 - logger_setup - INFO - Merging data with world GeoDataFrame.
+2025-02-27 22:37:43,582 - logger_setup - INFO - Merging data with world GeoDataFrame.
+2025-02-27 22:37:43,582 - logger_setup - INFO - Merging data with world GeoDataFrame.
+2025-02-27 22:37:43,596 - logger_setup - INFO - Data merged successfully.
+2025-02-27 22:37:43,596 - logger_setup - INFO - Data merged successfully.
+2025-02-27 22:37:43,596 - logger_setup - INFO - Data merged successfully.
+2025-02-27 22:37:57,435 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:57,435 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:57,435 - logger_setup - INFO - Calculating transaction volumes by country.
+2025-02-27 22:37:57,451 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:37:57,451 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:37:57,451 - logger_setup - INFO - Transaction volumes calculated successfully.
+2025-02-27 22:39:13,109 - logger_setup - INFO - Plotting transaction volume map.
+2025-02-27 22:39:13,109 - logger_setup - INFO - Plotting transaction volume map.
+2025-02-27 22:39:13,109 - logger_setup - INFO - Plotting transaction volume map.
+2025-02-27 22:39:30,052 - logger_setup - INFO - Transaction volume map plotted successfully.
+2025-02-27 22:39:30,052 - logger_setup - INFO - Transaction volume map plotted successfully.
+2025-02-27 22:39:30,052 - logger_setup - INFO - Transaction volume map plotted successfully.
+2025-02-27 22:40:08,927 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:40:08,927 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:40:08,927 - logger_setup - INFO - Calculating fraud rates by country.
+2025-02-27 22:40:08,968 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:40:08,968 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:40:08,968 - logger_setup - INFO - Fraud rates calculated successfully.
+2025-02-27 22:40:30,277 - logger_setup - INFO - Plotting fraud rate map.
+2025-02-27 22:40:30,277 - logger_setup - INFO - Plotting fraud rate map.
+2025-02-27 22:40:30,277 - logger_setup - INFO - Plotting fraud rate map.
+2025-02-27 22:40:30,568 - logger_setup - INFO - Fraud rate map plotted successfully.
+2025-02-27 22:40:30,568 - logger_setup - INFO - Fraud rate map plotted successfully.
+2025-02-27 22:40:30,568 - logger_setup - INFO - Fraud rate map plotted successfully.
+2025-02-27 22:54:14,492 - logger_setup - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-27 22:54:14,492 - logger_setup - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-27 22:54:14,492 - logger_setup - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-27 22:54:14,493 - logger_setup - INFO - Starting the feature engineering pipeline...
+2025-02-27 22:54:14,493 - logger_setup - INFO - Starting the feature engineering pipeline...
+2025-02-27 22:54:14,493 - logger_setup - INFO - Starting the feature engineering pipeline...
+2025-02-27 22:54:14,493 - logger_setup - INFO - Preprocessing datetime features...
+2025-02-27 22:54:14,493 - logger_setup - INFO - Preprocessing datetime features...
+2025-02-27 22:54:14,493 - logger_setup - INFO - Preprocessing datetime features...
+2025-02-27 22:54:14,663 - logger_setup - INFO - Datetime features successfully created.
+2025-02-27 22:54:14,663 - logger_setup - INFO - Datetime features successfully created.
+2025-02-27 22:54:14,663 - logger_setup - INFO - Datetime features successfully created.
+2025-02-27 22:54:14,664 - logger_setup - INFO - Calculating transaction frequency and velocity...
+2025-02-27 22:54:14,664 - logger_setup - INFO - Calculating transaction frequency and velocity...
+2025-02-27 22:54:14,664 - logger_setup - INFO - Calculating transaction frequency and velocity...
+2025-02-27 22:54:15,542 - logger_setup - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-27 22:54:15,542 - logger_setup - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-27 22:54:15,542 - logger_setup - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-27 22:54:15,546 - logger_setup - INFO - Encoding categorical features...
+2025-02-27 22:54:15,546 - logger_setup - INFO - Encoding categorical features...
+2025-02-27 22:54:15,546 - logger_setup - INFO - Encoding categorical features...
+2025-02-27 22:54:15,734 - logger_setup - INFO - Categorical features encoded successfully.
+2025-02-27 22:54:15,734 - logger_setup - INFO - Categorical features encoded successfully.
+2025-02-27 22:54:15,734 - logger_setup - INFO - Categorical features encoded successfully.
+2025-02-27 22:54:15,735 - logger_setup - INFO - Normalizing and scaling numerical features...
+2025-02-27 22:54:15,735 - logger_setup - INFO - Normalizing and scaling numerical features...
+2025-02-27 22:54:15,735 - logger_setup - INFO - Normalizing and scaling numerical features...
+2025-02-27 22:54:15,831 - logger_setup - INFO - Numerical features normalized and scaled successfully.
+2025-02-27 22:54:15,831 - logger_setup - INFO - Numerical features normalized and scaled successfully.
+2025-02-27 22:54:15,831 - logger_setup - INFO - Numerical features normalized and scaled successfully.
+2025-02-27 22:54:15,873 - logger_setup - INFO - Feature engineering pipeline executed successfully.
+2025-02-27 22:54:15,873 - logger_setup - INFO - Feature engineering pipeline executed successfully.
+2025-02-27 22:54:15,873 - logger_setup - INFO - Feature engineering pipeline executed successfully.
+2025-02-27 22:54:15,874 - logger_setup - INFO - Retrieving processed data...
+2025-02-27 22:54:15,874 - logger_setup - INFO - Retrieving processed data...
+2025-02-27 22:54:15,874 - logger_setup - INFO - Retrieving processed data...
+2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
+2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
+2025-02-27 22:54:15,874 - logger_setup - INFO - Processed data retrieved successfully.
